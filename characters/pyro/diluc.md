@@ -37,61 +37,55 @@ Diluc performs up to 4 consecutive attacks.
 | 4-Hit | 194.75% |  |  |
 
 **Charged Attack**  
-Consumes 20 stamina to unleash 2 consecutive strikes.
+Diluc consumes 40 stamina a second to perform continuous slashes. At the end of the sequence, perform a more powerful slash.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| N1C | 234.25 |  |  |
-
-Enemies struck by Bennett's charged attack will be staggered or launched.
+| Slash | 100.00% |  |  |
+| Final Slash | 181.25% |  |  |
 
 **Plunge**
 
 | Damage Type | Talent 6% |
 | :--- | :--- |
-| Plunge Impact | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 232.09% |
+| Plunge Impact | 130.1% |
+| Low Plunge DMG | 260.13% |
+| High Plunge DMG | 324.92% |
 {% endtab %}
 
-{% tab title="Passion Overload" %}
-**Press**  
-Bennett strikes once, dealing Pyro DMG.
+{% tab title="Searing Onslaught" %}
+Diluc performs a forward slash, dealing Pyro DMG
 
-**Hold \(Short\)**
-
-* Level 1: Charges up to strike twice dealing Pyro DMG and launching enemies.
-* Level 2: Charges up to strike two times dealing Pyro DMG, with the last attack triggering an explosion that knocks away Bennett and the enemy.
+This skill can be cast up to 3 times consecutively, with different effects. Enters CD if not cast again within 4s.
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| E Press | 192.64% | 5s | 2B | 2 |  |  |
-| Level 1 | 117.6% + 128.8% | 7.5s | 2 x 1A | 3 |  |  |
-| Level 2 | 123.2% + 134.4% | 10s | 2 x 1A | 3 |  |  |
-| Explosion |  |  | 1A |  |  |  |
+| 1-Hit DMG | 132.16% | 10s | 1A | 1~2 \(3:1\) |  |  |
+| 2-Hit DMG | 136.64% |  | 1A | 1~2 \(3:1\) |  |  |
+| 3-Hit DMG | 180.32% |  | 1A | 1~2 \(3:1\) |  |  |
 
-* Max hold duration is x seconds, after which Bennett will use a Level 2 Passion Overload by default. 
-* Having knockback resistance will prevent the explosion from knocking back Bennett after casting a Level 2 Passion Overload.
+* The cooldown starts after the first cast.
+* Each cast is considered a unique Pyro source and do not share an elemental application ICD.
+* Each cast adds a stack to the 4pc Crimson Witch of Flames artifact set.
+* When Searing Onslaught hits a frozen target, it will shatter before reacting with any underlying auras.
 {% endtab %}
 
-{% tab title="Fantastic Voyage" %}
-Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro DMG.
+{% tab title="Dawn" %}
+Diluc slashes in front of himself and releases a Phoenix, dealing Pyro DMG. The Phoenix flies forward dealing DoT Pyro DMG. Once the Phoenix reaches its destination, it explodes, dealing Pyro DMG.
 
-**Inspiration Field**
+After the slash, Diluc infuses his weapon with Pyro.
 
-* If the health of a character within the AoE of **Inspiration Field** is less than or equal to 70%, their HP will continuously regenerate based on Bennett’s max HP. 
-* However, if the health of the character is greater than 70%, gain an ATK bonus based on Bennett’s base ATK.
-* Continuously imbues characters within the AoE with Pyro.
+* Pyro infused autos have 1U worth of Pyro application.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
-| DMG | 325.92% |
-| HP Regeneration | 8.4% Bennett Max HP + 914 |
-| ATK Bonus Ratio | 78.4% Bennett **Base ATK** |
-| Duration | 12s |
-| Cooldown | 15s \(non-scaling\) |
-| Energy Cost | 60 |
-| GU | 2B |
+| Slashing DMG | 286.6% |
+| DoT DMG | 84.0% |
+| Explosion DMG | 285.6% |
+| Infusion Duration | 8s |
+| Cooldown | 12s |
+| Energy Cost | 40 |
+| GU | 1A |
 | Imbue | 1A |
 | Frames |  |
 
