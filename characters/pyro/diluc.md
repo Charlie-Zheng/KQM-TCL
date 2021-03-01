@@ -65,7 +65,7 @@ This skill can be cast up to 3 times consecutively, with different effects. Ente
 | 3-Hit DMG | 180.32% |  | 1A | 1~2 \(3:1\) |  |  |
 
 * The cooldown starts after the first cast.
-* Each cast is considered a unique Pyro source and do not share an elemental application ICD.
+* Each cast is considered a unique Pyro source and they do not share an ICD.
 * Each cast adds a stack to the 4pc Crimson Witch of Flames artifact set.
 * When Searing Onslaught hits a frozen target, it will shatter before reacting with any underlying auras.
 {% endtab %}
@@ -74,8 +74,6 @@ This skill can be cast up to 3 times consecutively, with different effects. Ente
 Diluc slashes in front of himself and releases a Phoenix, dealing Pyro DMG. The Phoenix flies forward dealing DoT Pyro DMG. Once the Phoenix reaches its destination, it explodes, dealing Pyro DMG.
 
 After the slash, Diluc infuses his weapon with Pyro.
-
-* Pyro infused autos have 1U worth of Pyro application.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
@@ -89,34 +87,32 @@ After the slash, Diluc infuses his weapon with Pyro.
 | Imbue | 1A |
 | Frames |  |
 
-* Bennett field does not apply the buffs instantaneously on swap. **Inspiration Field** applies the ATK bonus and healing on the same tick every second. If you swap after the tick occurs, you will need to wait for the next tick to receive the ATK bonus.
-* **Inspiration Field** will apply the ATK Bonus and **C6: Fire Ventures with Me** will also apply the Pyro DMG bonus immediately on cast.
-* The bonus ATK from **Inspiration Field** ONLY scales with Bennett's base attack, including buffs like Noblesse Oblige \(2\).
+* Pyro infused autos have 1U worth of Pyro application.
+* When Dawn hits a frozen target, it will shatter before reacting with any underlying auras.
 {% endtab %}
 {% endtabs %}
+
+
 
 ### **Ascension Passives**
 
 {% tabs %}
 {% tab title="Passive" %}
-#### It should be safe...
+#### Tradition of the Dawn Knight
 
-When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%
+Refunds 15% of the ore used when crafting Claymore-type weapons.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-#### Rekindle
+#### Relentless
 
-Decrease passion overload’s cooldown by 20%.
+Diluc's Charged Attack stamina cost is decreased by 50%, and its duration is increased by 3s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-#### Fearnaught
+#### Blessing of the Phoenix
 
-Within the Inspiration Field created by Fantastic Voyage, Passion Overload takes the following effects:
-
-* CD is reduced by 50%
-* Bennett will not be launched by the explosion of Passion Overload: Charge Level 2.
+The Pyro Infusion granted by Dawn lasts 4s longer. Additionally, Diluc gains 20% Pyro DMG Bonus for duration of the effect.
 {% endtab %}
 {% endtabs %}
 
@@ -124,56 +120,48 @@ Within the Inspiration Field created by Fantastic Voyage, Passion Overload takes
 
 {% tabs %}
 {% tab title="C1" %}
-#### Grand Expectation
+#### Conviction
 
-Fantastic Voyage’s ATK increase no longer has an HP restriction, and gains an additional 20% of Bennett’s Base ATK.
+Diluc deals 15% increased DMG to opponents whose HP is above 50%.
 {% endtab %}
 
 {% tab title="C2" %}
-#### Impasse Conqueror
+#### Searing Ember
 
-When Bennett’s HP falls below 70%, his Energy Recharge is increased by 30%.
+When Diluc takes DMG, his ATK increases by 10% and his ATK SPD increases by 5%. Last for 10s. This effect can stack up to 3 times and can only occur once every 1.5s.
 {% endtab %}
 
 {% tab title="C3" %}
-#### Unstoppable Fervor
+#### Fire and Steel
 
-Increases the level of Passion Overload by 3.
+Increases the level of Searing Onslaught by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-#### Unexpected Odyssey
+#### Flowing Flame
 
-Using a Normal Attack when executing the second attack of Passion Overload’s Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack’s DMG.
-
-| Attack | Talent 6% | Talent 9% | Motion Value |
-| :--- | :--- | :--- | :--- |
-| Passion Overload Level 1 + Normal Attack | 117.6% + 128.8% + 173.88% | 149.6% + 163.2% + 220.3% |  |
+If Searing Onslaught is recast more than 2s after the previous cast, it deals 40% additional DMG.
 {% endtab %}
 
 {% tab title="C5" %}
-#### True Explorer
+#### Phoenix, Harbinger of Dawn
 
-Increases the Level of Fantastic Voyage by 3.
+Increases the Level of Dawn by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-#### **Fire Ventures with Me**
+#### **Flaming Sword, Nemesis of the Dark**
 
-Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radius gain a 15% Pyro DMG Bonus and their weapons are infused with Pyro.
-
-* Pyro Infusion lasts 2 seconds upon leaving **Inspiration Field**.
-* The Pyro DMG bonus will apply to the Fantastic Voyage damage.
-* Pyro infused autos have 1U worth of Pyro applcation.
+After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%. Additionally, Searing Onslaught will not interrupt the Normal Attack combo.
 {% endtab %}
 {% endtabs %}
 
 ### **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Bennett)
-* [**Bennett Mains Discord**](https://discord.gg/qrjeEyejsd)
+* \*\*\*\*[**Diluc Mains Discord**](https://discord.gg/af9MWyd)\*\*\*\*
 
-**Tags:** [Field Buffs](https://library.keqingmains.com/mechanics/combat/field-buffs), [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
+**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
 **Evidence Vault:**
 
