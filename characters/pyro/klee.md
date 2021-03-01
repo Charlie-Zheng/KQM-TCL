@@ -147,7 +147,7 @@ If Klee leaves the field during the duration of Sparks 'n' Splash, her departure
 
 | Type | Value |
 | :--- | :--- |
-| GU | 2B  |
+| GU | 2B |
 {% endtab %}
 
 {% tab title="C5" %}

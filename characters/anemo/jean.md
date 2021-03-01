@@ -56,13 +56,13 @@ Consumes 20 stamina to strike upwards and knocks up enemies that will then fall 
 {% endtab %}
 
 {% tab title="Gale Blade" %}
-**Press**   
+**Press**  
 Jean quickly thrusts forward knocking light enemies away and dealing Anemo DMG.
 
 * Enemies launched by Gale Blade can incur fall damage against the ground or walls.
 * Fall damage is based on a percentage of enemy health making it very useful against enemies with high health and low interruption resistance.
 
-**Hold**   
+**Hold**  
 Creates a vaccum that lifts enemies and moves them towards the blade.
 
 * Costs 20 stamina per second to hold.

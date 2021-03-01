@@ -1,6 +1,6 @@
 # Internal Cooldown of Elemental Application
 
-## **Frame Data of Strings for ICD** 
+## **Frame Data of Strings for ICD**
 
 By: Artesians  
 Submitted: 2/26/2021
