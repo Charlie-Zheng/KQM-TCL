@@ -88,7 +88,7 @@ After the slash, Diluc infuses his weapon with Pyro.
 | Frames |  |
 
 * Pyro infused autos have 1U worth of Pyro application.
-* When Dawn hits a frozen target, it will shatter before reacting with any underlying auras.
+* When Dawn's initial slash hits a frozen target, it will shatter before reacting with any underlying auras.
 {% endtab %}
 {% endtabs %}
 
