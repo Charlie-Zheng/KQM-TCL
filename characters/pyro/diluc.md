@@ -1,37 +1,40 @@
+---
+description: 'The tycoon of a winery empire in Mondstadt, unmatched in every possible way.'
+---
+
 # Diluc
 
-## Diluc
+## ![](../../.gitbook/assets/element_pyro.png)Diluc
 
-### ![](../../.gitbook/assets/element_pyro.png) Bennett
+### 
 
 ![](../../.gitbook/assets/bennett.png)
 
 ### **Base Stats**
 
-| Lv | Base HP | Base ATK | Base DEF | Energy Recharge% |
+| Lv | Base HP | Base ATK | Base DEF | CRIT Rate% |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 8168 | 126 | 508 | 13.30 |
-| 60+ | 8719 | 134 | 542 | 13.30 |
-| 70 | 9577 | 148 | 596 | 13.30 |
-| 70+ | 10129 | 156 | 630 | 20 |
-| 80 | 10987 | 169 | 684 | 20 |
-| 80+ | 11539 | 178 | 718 | 26.70 |
-| 90 | 12397 | 191 | 771 | 26.70 |
+| 60 | 8421 | 217 | 509 | 14.6 |
+| 60+ | 9036 | 233 | 546 | 14.6 |
+| 70 | 9932 | 256 | 600 | 14.6 |
+| 70+ | 10547 | 272 | 637 | 19.4 |
+| 80 | 11453 | 295 | 692 | 19.4 |
+| 80+ | 12068 | 311 | 729 | 24.2 |
+| 90 | 12981 | 335 | 784 | 24.2 |
 
 ### **Attacks**
 
 {% tabs %}
-{% tab title="Strike of Fortune" %}
+{% tab title="Tempered Sword" %}
 **Normal Attacks**  
-Bennett performs up to 5 consecutive attacks.
+Diluc performs up to 4 consecutive attacks.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.75% |  |  |
-| 2-Hit | 62.13% |  |  |
-| 3-Hit | 79.38% |  |  |
-| 4-Hit | 86.75% |  |  |
-| 5-Hit | 104.5% |  |  |
+| 1-Hit | 130.38% |  |  |
+| 2-Hit | 127.38% |  |  |
+| 3-Hit | 143.63% |  |  |
+| 4-Hit | 194.75% |  |  |
 
 **Charged Attack**  
 Consumes 20 stamina to unleash 2 consecutive strikes.
