@@ -53,7 +53,6 @@ Diluc consumes 40 stamina a second to perform continuous slashes. At the end of 
 | Plunge Impact | 130.1% |
 | Low Plunge DMG | 260.13% |
 | High Plunge DMG | 324.92% |
-|  |  |
 {% endtab %}
 
 {% tab title="Searing Onslaught" %}
