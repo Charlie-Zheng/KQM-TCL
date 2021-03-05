@@ -89,7 +89,7 @@ After the slash, Diluc infuses his weapon with Pyro.
 | Energy Cost | 40 |
 | GU | 1A |
 | Imbue | 1A |
-| Frames | 139 |
+| Frames | 145 |
 
 * Pyro infused autos have 1U worth of Pyro application.
 {% endtab %}
