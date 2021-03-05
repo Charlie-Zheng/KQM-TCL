@@ -31,7 +31,7 @@ Diluc performs up to 4 consecutive attacks.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 130.38% |  |  |
+| 1-Hit | 130.38% | 31 | 252.348 |
 | 2-Hit | 127.38% |  |  |
 | 3-Hit | 143.63% |  |  |
 | 4-Hit | 194.75% |  |  |
@@ -63,6 +63,7 @@ This skill can be cast up to 3 times consecutively, with different effects. Ente
 | 1-Hit DMG | 132.16% | 10s | 1A | 1~2 \(3:1\) |  |  |
 | 2-Hit DMG | 136.64% |  | 1A | 1~2 \(3:1\) |  |  |
 | 3-Hit DMG | 180.32% |  | 1A | 1~2 \(3:1\) |  |  |
+| N1-E-N1-E-N1-E-N1 |  |  |  |  |  |  |
 
 * The cooldown starts after the first cast.
 * Each cast is considered a unique Pyro source and they do not share an ICD.
