@@ -63,12 +63,12 @@ This skill can be cast up to 3 times consecutively, with different effects. Ente
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 132.16% | 10s | 1A | 1~2 \(3:1\) | 44 |  |
+| 1-Hit DMG | 132.16% | 10s | 1A | 1~2 \(3:1\) | 45 |  |
 | 2-Hit DMG | 136.64% |  | 1A | 1~2 \(3:1\) | 52 |  |
 | 3-Hit DMG | 180.32% |  | 1A | 1~2 \(3:1\) | 81 |  |
 | N1-E-N1-E-N1-E-N1 | 970.64% |  |  |  | 257 | 226.6 |
 
-* The cooldown starts after the first cast.
+* The cooldown starts on the first cast.
 * Each cast is considered a unique Pyro source and they do not share an ICD.
 * Each cast adds a stack to the 4pc Crimson Witch of Flames artifact set.
 * When Searing Onslaught hits a frozen target, it will shatter before reacting with any underlying auras.
